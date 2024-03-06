@@ -943,6 +943,7 @@ body{
     padding: 0.4rem 1rem;
     margin: 0.3rem;
     font-size: 1.3rem;
+    border: 1px solid var(--color-secondary);
     background-color: var(--color-secondary);
     border-radius: 0.3rem;
     -webkit-border-radius: 0.3rem;
@@ -950,6 +951,12 @@ body{
     -ms-border-radius: 0.3rem;
     -o-border-radius: 0.3rem;
     color: var(--color-principal);
+}
+
+.knowledges__option:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: var(--color-secondary);
 }
 
 .certificates__container{
