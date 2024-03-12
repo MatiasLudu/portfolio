@@ -142,7 +142,7 @@ body{
 }
 
 .user-info__links{
-    margin-bottom: 3.6rem;
+    margin-bottom: 2rem;
 }
 
 .links__social{
@@ -176,8 +176,8 @@ body{
 }
 
 .user-info__buttons{
-    margin-top: 2rem;
-    margin-bottom: 4rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 
 .user-info__btn{
