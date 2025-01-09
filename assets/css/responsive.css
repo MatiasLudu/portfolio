@@ -109,6 +109,10 @@
         left: 30%;
     }
 
+    .selection__icon{
+        opacity: 1 !important;
+    }
+
     .fa-bars{
         opacity: 1;
     }
